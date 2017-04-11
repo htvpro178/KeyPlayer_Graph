@@ -1,0 +1,115 @@
+﻿  Moc'ing datasetselectdialog.h...
+  Moc'ing edge.h...
+  Moc'ing filteredgesbyweightdialog.h...
+  Moc'ing graph.h...
+  Moc'ing graphicswidget.h...
+  Moc'ing guide.h...
+  Moc'ing mainwindow.h...
+  Moc'ing node.h...
+  Moc'ing nodeeditdialog.h...
+  Moc'ing parser.h...
+  Moc'ing previewform.h...
+  Moc'ing randerdosrenyidialog.h...
+  Moc'ing randscalefreedialog.h...
+  Moc'ing randsmallworlddialog.h...
+  Moc'ing texteditor.h...
+  Moc'ing vertex.h...
+  Moc'ing webcrawler.h...
+  Moc'ing webcrawlerdialog.h...
+  Uic'ing src\forms\datasetselectdialog.ui...
+  Uic'ing src\forms\filteredgesbyweightdialog.ui...
+  Uic'ing src\forms\nodeeditdialog.ui...
+  Uic'ing src\forms\randerdosrenyidialog.ui...
+  Uic'ing src\forms\randscalefreedialog.ui...
+  Uic'ing src\forms\randsmallworlddialog.ui...
+  Uic'ing src\forms\webcrawlerdialog.ui...
+  Rcc'ing src\src.qrc...
+cl : Command line warning D9002: ignoring unknown option '-msse'
+cl : Command line warning D9002: ignoring unknown option '-mfpmath=sse'
+  moc_datasetselectdialog.cpp
+c:\qt\qt5.7.0\5.7\msvc2015_64\include\qtwidgets\qdialog.h(43): fatal error C1083: Cannot open include file: 'QtWidgets/qwidget.h': No such file or directory
+  moc_edge.cpp
+c:\qt\qt5.7.0\5.7\msvc2015_64\include\qtwidgets\qgraphicsitem.h(43): fatal error C1083: Cannot open include file: 'QtCore/qglobal.h': No such file or directory
+  moc_filteredgesbyweightdialog.cpp
+c:\qt\qt5.7.0\5.7\msvc2015_64\include\qtwidgets\qdialog.h(43): fatal error C1083: Cannot open include file: 'QtWidgets/qwidget.h': No such file or directory
+  moc_graph.cpp
+c:\qt\qt5.7.0\5.7\msvc2015_64\include\qtcore\qobject.h(46): fatal error C1083: Cannot open include file: 'QtCore/qobjectdefs.h': No such file or directory
+  moc_graphicswidget.cpp
+c:\qt\qt5.7.0\5.7\msvc2015_64\include\qtwidgets\qgraphicsview.h(43): fatal error C1083: Cannot open include file: 'QtCore/qmetatype.h': No such file or directory
+  moc_guide.cpp
+c:\qt\qt5.7.0\5.7\msvc2015_64\include\qtwidgets\qgraphicsitem.h(43): fatal error C1083: Cannot open include file: 'QtCore/qglobal.h': No such file or directory
+  moc_mainwindow.cpp
+c:\qt\qt5.7.0\5.7\msvc2015_64\include\qtwidgets\qmainwindow.h(43): fatal error C1083: Cannot open include file: 'QtWidgets/qwidget.h': No such file or directory
+  moc_node.cpp
+c:\qt\qt5.7.0\5.7\msvc2015_64\include\qtwidgets\qgraphicsitem.h(43): fatal error C1083: Cannot open include file: 'QtCore/qglobal.h': No such file or directory
+  moc_nodeeditdialog.cpp
+c:\qt\qt5.7.0\5.7\msvc2015_64\include\qtwidgets\qdialog.h(43): fatal error C1083: Cannot open include file: 'QtWidgets/qwidget.h': No such file or directory
+  moc_parser.cpp
+c:\qt\qt5.7.0\5.7\msvc2015_64\include\qtcore\qthread.h(43): fatal error C1083: Cannot open include file: 'QtCore/qobject.h': No such file or directory
+  moc_previewform.cpp
+c:\qt\qt5.7.0\5.7\msvc2015_64\include\qtwidgets\qdialog.h(43): fatal error C1083: Cannot open include file: 'QtWidgets/qwidget.h': No such file or directory
+  moc_randerdosrenyidialog.cpp
+c:\qt\qt5.7.0\5.7\msvc2015_64\include\qtwidgets\qdialog.h(43): fatal error C1083: Cannot open include file: 'QtWidgets/qwidget.h': No such file or directory
+  moc_randscalefreedialog.cpp
+c:\qt\qt5.7.0\5.7\msvc2015_64\include\qtwidgets\qdialog.h(43): fatal error C1083: Cannot open include file: 'QtWidgets/qwidget.h': No such file or directory
+  moc_randsmallworlddialog.cpp
+c:\qt\qt5.7.0\5.7\msvc2015_64\include\qtwidgets\qdialog.h(43): fatal error C1083: Cannot open include file: 'QtWidgets/qwidget.h': No such file or directory
+  moc_texteditor.cpp
+c:\qt\qt5.7.0\5.7\msvc2015_64\include\qtwidgets\qmainwindow.h(43): fatal error C1083: Cannot open include file: 'QtWidgets/qwidget.h': No such file or directory
+  moc_vertex.cpp
+c:\qt\qt5.7.0\5.7\msvc2015_64\include\qtcore\qobject.h(46): fatal error C1083: Cannot open include file: 'QtCore/qobjectdefs.h': No such file or directory
+  moc_webcrawler.cpp
+c:\qt\qt5.7.0\5.7\msvc2015_64\include\qtnetwork\qnetworkreply.h(43): fatal error C1083: Cannot open include file: 'QtCore/QIODevice': No such file or directory
+  moc_webcrawlerdialog.cpp
+c:\qt\qt5.7.0\5.7\msvc2015_64\include\qtwidgets\qdialog.h(43): fatal error C1083: Cannot open include file: 'QtWidgets/qwidget.h': No such file or directory
+  datasetselectdialog.cpp
+c:\qt\qt5.7.0\5.7\msvc2015_64\include\qtwidgets\qdialog.h(43): fatal error C1083: Cannot open include file: 'QtWidgets/qwidget.h': No such file or directory
+  edge.cpp
+c:\qt\qt5.7.0\5.7\msvc2015_64\include\qtwidgets\qgraphicsscene.h(43): fatal error C1083: Cannot open include file: 'QtCore/qobject.h': No such file or directory
+  Generating Code...
+  Compiling...
+  edgeweight.cpp
+c:\qt\qt5.7.0\5.7\msvc2015_64\include\qtwidgets\qgraphicsitem.h(43): fatal error C1083: Cannot open include file: 'QtCore/qglobal.h': No such file or directory
+  filteredgesbyweightdialog.cpp
+c:\qt\qt5.7.0\5.7\msvc2015_64\include\qtwidgets\qdialog.h(43): fatal error C1083: Cannot open include file: 'QtWidgets/qwidget.h': No such file or directory
+  graph.cpp
+c:\qt\qt5.7.0\5.7\msvc2015_64\include\qtcore\qobject.h(46): fatal error C1083: Cannot open include file: 'QtCore/qobjectdefs.h': No such file or directory
+  graphicswidget.cpp
+c:\qt\qt5.7.0\5.7\msvc2015_64\include\qtwidgets\qgraphicsview.h(43): fatal error C1083: Cannot open include file: 'QtCore/qmetatype.h': No such file or directory
+  guide.cpp
+c:\qt\qt5.7.0\5.7\msvc2015_64\include\qtwidgets\qgraphicsitem.h(43): fatal error C1083: Cannot open include file: 'QtCore/qglobal.h': No such file or directory
+  main.cpp
+c:\qt\qt5.7.0\5.7\msvc2015_64\include\qtwidgets\qapplication.h(43): fatal error C1083: Cannot open include file: 'QtCore/qcoreapplication.h': No such file or directory
+  mainwindow.cpp
+C:\Qt\Qt5.7.0\5.7\msvc2015_64\include\QtWidgets\QtWidgets(3): fatal error C1083: Cannot open include file: 'QtWidgets/QtWidgetsDepends': No such file or directory
+  matrix.cpp
+c:\qt\qt5.7.0\5.7\msvc2015_64\include\qtcore\qglobal.h(60): fatal error C1083: Cannot open include file: 'QtCore/qconfig.h': No such file or directory
+  node.cpp
+c:\qt\qt5.7.0\5.7\msvc2015_64\include\qtwidgets\qgraphicsitem.h(43): fatal error C1083: Cannot open include file: 'QtCore/qglobal.h': No such file or directory
+  nodeeditdialog.cpp
+c:\qt\qt5.7.0\5.7\msvc2015_64\include\qtcore\qdebug.h(44): fatal error C1083: Cannot open include file: 'QtCore/qalgorithms.h': No such file or directory
+  nodelabel.cpp
+c:\qt\qt5.7.0\5.7\msvc2015_64\include\qtwidgets\qgraphicsitem.h(43): fatal error C1083: Cannot open include file: 'QtCore/qglobal.h': No such file or directory
+  nodenumber.cpp
+c:\qt\qt5.7.0\5.7\msvc2015_64\include\qtwidgets\qgraphicsitem.h(43): fatal error C1083: Cannot open include file: 'QtCore/qglobal.h': No such file or directory
+  parser.cpp
+c:\qt\qt5.7.0\5.7\msvc2015_64\include\qtcore\qthread.h(43): fatal error C1083: Cannot open include file: 'QtCore/qobject.h': No such file or directory
+  previewform.cpp
+C:\Qt\Qt5.7.0\5.7\msvc2015_64\include\QtWidgets\QtWidgets(3): fatal error C1083: Cannot open include file: 'QtWidgets/QtWidgetsDepends': No such file or directory
+  randerdosrenyidialog.cpp
+c:\qt\qt5.7.0\5.7\msvc2015_64\include\qtcore\qdebug.h(44): fatal error C1083: Cannot open include file: 'QtCore/qalgorithms.h': No such file or directory
+  randscalefreedialog.cpp
+c:\qt\qt5.7.0\5.7\msvc2015_64\include\qtwidgets\qdialog.h(43): fatal error C1083: Cannot open include file: 'QtWidgets/qwidget.h': No such file or directory
+  randsmallworlddialog.cpp
+c:\qt\qt5.7.0\5.7\msvc2015_64\include\qtcore\qdebug.h(44): fatal error C1083: Cannot open include file: 'QtCore/qalgorithms.h': No such file or directory
+  texteditor.cpp
+C:\Qt\Qt5.7.0\5.7\msvc2015_64\include\QtWidgets\QtWidgets(3): fatal error C1083: Cannot open include file: 'QtWidgets/QtWidgetsDepends': No such file or directory
+  vertex.cpp
+c:\qt\qt5.7.0\5.7\msvc2015_64\include\qtcore\qobject.h(46): fatal error C1083: Cannot open include file: 'QtCore/qobjectdefs.h': No such file or directory
+  webcrawler.cpp
+c:\qt\qt5.7.0\5.7\msvc2015_64\include\qtnetwork\qnetworkreply.h(43): fatal error C1083: Cannot open include file: 'QtCore/QIODevice': No such file or directory
+  Generating Code...
+  Compiling...
+  webcrawlerdialog.cpp
+c:\qt\qt5.7.0\5.7\msvc2015_64\include\qtwidgets\qdialog.h(43): fatal error C1083: Cannot open include file: 'QtWidgets/qwidget.h': No such file or directory
+  Generating Code...

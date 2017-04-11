@@ -1,0 +1,95 @@
+﻿  Moc'ing datasetselectdialog.h...
+  Moc'ing edge.h...
+  Moc'ing filteredgesbyweightdialog.h...
+  Moc'ing graph.h...
+  Moc'ing graphicswidget.h...
+  Moc'ing guide.h...
+  Moc'ing mainwindow.h...
+  Moc'ing node.h...
+  Moc'ing nodeeditdialog.h...
+  Moc'ing parser.h...
+  Moc'ing previewform.h...
+  Moc'ing randerdosrenyidialog.h...
+  Moc'ing randscalefreedialog.h...
+  Moc'ing randsmallworlddialog.h...
+  Moc'ing texteditor.h...
+  Moc'ing vertex.h...
+  Moc'ing webcrawler.h...
+  Moc'ing webcrawlerdialog.h...
+cl : Command line warning D9002: ignoring unknown option '-msse'
+cl : Command line warning D9002: ignoring unknown option '-mfpmath=sse'
+  qrc_src.cpp
+cl : Command line warning D9002: ignoring unknown option '-msse'
+cl : Command line warning D9002: ignoring unknown option '-mfpmath=sse'
+  moc_datasetselectdialog.cpp
+  moc_edge.cpp
+  moc_filteredgesbyweightdialog.cpp
+  moc_graph.cpp
+  moc_graphicswidget.cpp
+  moc_guide.cpp
+  moc_mainwindow.cpp
+  moc_node.cpp
+  moc_nodeeditdialog.cpp
+  moc_parser.cpp
+  moc_previewform.cpp
+  moc_randerdosrenyidialog.cpp
+  moc_randscalefreedialog.cpp
+  moc_randsmallworlddialog.cpp
+  moc_texteditor.cpp
+  moc_vertex.cpp
+  moc_webcrawler.cpp
+  moc_webcrawlerdialog.cpp
+  datasetselectdialog.cpp
+  edge.cpp
+  Generating Code...
+  Compiling...
+  edgeweight.cpp
+  filteredgesbyweightdialog.cpp
+  graph.cpp
+src\graph.cpp(3884): warning C4305: '=': truncation from 'double' to 'float'
+src\graph.cpp(3890): warning C4305: 'initializing': truncation from 'double' to 'float'
+src\graph.cpp(4310): warning C4305: 'initializing': truncation from 'double' to 'float'
+src\graph.cpp(4475): warning C4305: 'initializing': truncation from 'double' to 'float'
+src\graph.cpp(10859): warning C4100: 'cH': unreferenced formal parameter
+src\graph.cpp(10859): warning C4100: 'cW': unreferenced formal parameter
+src\graph.cpp(10859): warning C4100: 'maxIterations': unreferenced formal parameter
+  graphicswidget.cpp
+src\graphicswidget.cpp(186): warning C4100: 'weight1': unreferenced formal parameter
+  guide.cpp
+  json.cpp
+  main.cpp
+  mainwindow.cpp
+src\mainwindow.cpp(2599): warning C4189: 'visualizationBoxLayout': local variable is initialized but not referenced
+src\mainwindow.cpp(3241): warning C4100: 'flagPp': unreferenced formal parameter
+src\mainwindow.cpp(4082): warning C4100: 'p': unreferenced formal parameter
+src\mainwindow.cpp(4082): warning C4100: 'num': unreferenced formal parameter
+src\mainwindow.cpp(8835): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+src\mainwindow.cpp(9149): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\time.h(475): note: see declaration of 'ctime'
+src\mainwindow.cpp(9198): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\time.h(475): note: see declaration of 'ctime'
+src\mainwindow.cpp(9266): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\time.h(475): note: see declaration of 'ctime'
+src\mainwindow.cpp(9314): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\time.h(475): note: see declaration of 'ctime'
+  matrix.cpp
+src\matrix.cpp(701): warning C4305: '=': truncation from 'double' to 'float'
+  node.cpp
+  nodeeditdialog.cpp
+  nodelabel.cpp
+  nodenumber.cpp
+  parser.cpp
+src\parser.cpp(2140): warning C4553: '==': operator has no effect; did you intend '='?
+  previewform.cpp
+  randerdosrenyidialog.cpp
+  randscalefreedialog.cpp
+  randsmallworlddialog.cpp
+  texteditor.cpp
+  vertex.cpp
+  Generating Code...
+e:\uit-master\social_network\keyplayer_mapreduce\keyplayers_graph\src\edgeweight.cpp(20): warning C4717: 'EdgeWeight::move': recursive on all control paths, function will cause runtime stack overflow
+  Compiling...
+  webcrawler.cpp
+  webcrawlerdialog.cpp
+  Generating Code...
+  KeyPlayers_Graph.vcxproj -> E:\UIT-MASTER\SOCIAL_NETWORK\KEYPLAYER_MAPREDUCE\KeyPlayers_Graph\x64\Release\KeyPlayers_Graph.exe

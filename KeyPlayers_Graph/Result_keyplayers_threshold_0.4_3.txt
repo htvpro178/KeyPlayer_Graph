@@ -1,0 +1,26 @@
+The list of 3 the vertexes have the influence as maximum in the network: 
+The number of affected from vertex 2(D) passed the threshold 0.4 : 3
+This vertex affects to other vertexes that passed the threshold: 
+3 4 3 4 7 
+The influence to every vertexes:
+3 : 0.8
+4 : 0.8
+3 : 0.75
+4 : 0.803571
+7 : 0.5
+
+The number of affected from vertex 6(C) passed the threshold 0.4 : 2
+This vertex affects to other vertexes that passed the threshold: 
+4 3 4 
+The influence to every vertexes:
+4 : 1
+3 : 0.8
+4 : 0.8
+
+The number of affected from vertex 5(A) passed the threshold 0.4 : 1
+This vertex affects to other vertexes that passed the threshold: 
+4 4 
+The influence to every vertexes:
+4 : 0.428571
+4 : 0.6
+

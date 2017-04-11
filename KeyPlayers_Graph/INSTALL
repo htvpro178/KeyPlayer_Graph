@@ -1,0 +1,41 @@
+Installation
+============
+
+To install SocNetV 1.x you need Qt5 development libraries.
+Qt is an open source C++ toolkit published under the GPL.
+Most modern Linux distros, especially those providing KDE as their default
+desktop environment, include Qt. The Qt5 toolkit is also available for Windows,
+Mac and mobile devices.
+
+If you have Qt5 installed, all you have to do is to type in the following
+commands in order to decompress the SocNetV tarball and build it.
+Replace 1.X with the version you downloaded...
+
+1) untar zxfv SocNetV-1.X.tar.gz 
+
+2) cd socnetv-1.X
+
+3) qmake
+
+4) make
+
+5) sudo make install
+
+Probably you have already done the first 2 steps, so just type in 'qmake' or 'qmake-qt5'.
+If Qt5 is not installed, the script will let you know...
+
+When you finish compiling and installing, run the application typing: 
+
+socnetv
+
+or go to Start Menu > Mathematics  > SocNetV. 
+
+
+
+Questions
+=========
+
+For any questions, email me at:
+
+dimitris.kalamaras@gmail.com
+

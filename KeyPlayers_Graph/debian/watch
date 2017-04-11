@@ -1,0 +1,2 @@
+version=3
+https://launchpad.net/socnetv/+download  https://launchpad.net/socnetv/.*/.*/\+download/SocNetV-([0-9.]+)\.tar\.bz2

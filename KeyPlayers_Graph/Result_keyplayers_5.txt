@@ -1,0 +1,35 @@
+The list of 4 the vertexes have the total influence as maximum in the network: 
+The total influence 1(A) : 3.02846
+This vertex affects to: 
+3 4 5 6 7 
+The influence to every vertexes:
+3 : 0.61
+4 : 0.91846
+5 : 0.5
+6 : 0.5
+7 : 0.5
+
+The total influence 2(B) : 3.02131
+This vertex affects to: 
+3 4 5 6 7 
+The influence to every vertexes:
+3 : 0.870139
+4 : 0.901175
+5 : 0.416667
+6 : 0.333333
+7 : 0.5
+
+The total influence 5(E) : 1.496
+This vertex affects to: 
+3 4 
+The influence to every vertexes:
+3 : 0.7
+4 : 0.796
+
+The total influence 6(F) : 1.36
+This vertex affects to: 
+3 4 
+The influence to every vertexes:
+3 : 0.8
+4 : 0.56
+
